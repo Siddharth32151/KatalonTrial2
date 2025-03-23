@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test case 10 - Check localhost</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0fd5799-e93f-4ee7-9cd8-30c363699710</testCaseGuid>
+</TestCaseEntity>
