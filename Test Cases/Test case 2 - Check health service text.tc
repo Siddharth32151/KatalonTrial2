@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test case 2 - Check health service text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc19e437-954f-48b4-aa7f-d712ea87fd7d</testCaseGuid>
+</TestCaseEntity>
